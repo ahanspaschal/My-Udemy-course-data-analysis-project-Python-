@@ -17,7 +17,7 @@ c) Whether any are free beginner courses, and the duration of the courses.
 
 6) Does content duration impact the price of the course?
 
-##SUMMARY OF FINDINGS
+## SUMMARY OF FINDINGS
 1) After carefully analyzing the dataset, it was observed that about 68% of total subscribers in udemy went for web development courses. And also the top five most subscribed courses are web development courses.
 2) It was also observed that on average, web development courses are the most expensive, and has the longest content duration.
 3) On a closer look, it was observed that on average, musical instrument courses are the cheapest, have the shortest duration of content, but still has the least number of subscribers.
