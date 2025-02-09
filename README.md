@@ -1,5 +1,5 @@
 
-## This is python data analysis project. I will be working with a real dataset from Udemy. This dataset contains details about Udemy courses, such as their prices, number of subscribers, content duration and so on. The aim of this project is to analyze this data, uncover insights and make a good recommendations on how to boost revenue generation through increased number of subscribers and course sales based on the findings. Some of the insights I will be working to uncover from this datset includes:
+## This is python data analysis project. On this project, I will be working with a real dataset from Udemy. This dataset contains details about Udemy courses such as; their prices, number of subscribers, content duration and so on. The aim of this project is to analyze this data, uncover insights and make good recommendations on how to boost revenue generation through increased number of subscribers and course sales based on the findings. Some of the insights I will be working to uncover from this datset includes:
 
 1) The total numbers of subscribers in each subject?
 
