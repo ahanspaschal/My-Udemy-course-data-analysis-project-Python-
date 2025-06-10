@@ -105,9 +105,3 @@ The aim is to uncover insights that can help maximize revenue and increase cours
 
 
 
-## SUMMARY OF FINDINGS
-1) After carefully analyzing the dataset, it was observed that about 68% of total subscribers in udemy went for web development courses. And also the top five most subscribed courses are web development courses.
-2) It was also observed that on average, web development courses are the most expensive, and has the longest content duration.
-3) On a closer look, it was observed that on average, musical instrument courses are the cheapest, have the shortest duration of content, but still has the least number of subscribers.
-4) It can be confirmed that content duration have no impact on the price of course, as well as the number of subscibers.
-5) Subscribers are willing to pay higher and spend longer time on a course. What matters most id their choice of interest. 
