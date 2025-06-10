@@ -31,54 +31,71 @@ The aim is to uncover insights that can help maximize revenue and increase cours
   Number of subscribers
 
 ## 🧰 Tools & Technologies
-Python 3
+* Python 3
 
-Pandas – Data manipulation
+* Pandas – Data manipulation
 
-Matplotlib – Data visualization
+* Matplotlib – Data visualization
 
-Jupyter Notebook – Analysis environment
+* Jupyter Notebook – Analysis environment
 
 ## 🔄 Data Preparation Steps
-Loaded the dataset using pandas.read_csv()
+* Loaded the dataset using pandas.read_csv()
 
-Cleaned the data:
+* Cleaned the data:
 
-Dropped empty and irrelevant columns
+* Dropped empty and irrelevant columns
 
-Created new columns (e.g., free_or_paid) for categorization
+* Created new columns (e.g., free_or_paid) for categorization
 
-Converted incorrect data types (e.g., Price and Content Duration)
+* Converted incorrect data types (e.g., Price and Content Duration)
 
-Performed groupby aggregations to compute averages and totals
+* Performed groupby aggregations to compute averages and totals
 
-Built visualizations (bar plots, pie charts) to enhance interpretation
+* Built visualizations (bar plots, pie charts) to enhance interpretation
 
 ## 📊 Key Insights
 ### Subject & Subscriber Trends
-Web Development dominates with 68% of all subscribers, confirming its popularity and commercial viability.
+* Web Development dominates with 68% of all subscribers, confirming its popularity and commercial viability.
 
-Business Finance and Musical Instruments have significantly fewer subscribers.
+* Business Finance and Musical Instruments have significantly fewer subscribers.
 ### Pricing Patterns
-Web Development courses have the highest average price.
+* Web Development courses have the highest average price.
 
-Musical Instruments are the cheapest and least subscribed.
-Course Accessibility
-Certain subjects offer a good balance of free and paid courses.
+* Musical Instruments are the cheapest and least subscribed.
+* Course Accessibility
+* Certain subjects offer a good balance of free and paid courses.
 
-Free beginner-level courses exist but are rare among the top courses.
+* Free beginner-level courses exist but are rare among the top courses.
 
 ### Content Duration vs. Pricing
-No meaningful correlation between content duration and price.
+* No meaningful correlation between content duration and price.
 
-Similarly, duration does not strongly impact number of subscribers — indicating user interest and subject matter are more critical.
+* Similarly, duration does not strongly impact number of subscribers — indicating user interest and subject matter are more critical.
 
 ### Top 20 Courses (Sample View)
-Majority are web development courses.
+* Majority are web development courses.
 
-Levels vary from beginner to expert, with a few free beginner options.
+* Levels vary from beginner to expert, with a few free beginner options.
 
-These courses tend to have longer durations and high engagement rates.
+* These courses tend to have longer durations and high engagement rates.
+
+## 💡 Recommendations
+### Focus on High-Demand Subjects:
+
+* Prioritize Web Development and similar tech-driven subjects for new course creation.
+
+### Reassess Pricing Strategy:
+
+* Content length alone doesn't justify higher prices. Focus instead on value and quality of subject matter.
+
+### Offer Free Starters:
+
+* Providing more free beginner-level courses could improve platform adoption and lead to higher paid conversions.
+
+### Leverage Course Popularity Metrics:
+
+* Highlight and promote top-performing courses as case studies for new creators.
 
 
 
