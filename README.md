@@ -63,12 +63,11 @@ The aim is to uncover insights that can help maximize revenue and increase cours
 
 ### Pricing Patterns
 * Web Development courses have the highest average price.
-
 * Musical Instruments are the cheapest and least subscribed.
 * Course Accessibility
 * Certain subjects offer a good balance of free and paid courses.
-
 * Free beginner-level courses exist but are rare among the top courses.
+
 
 ### Content Duration vs. Pricing
 * No meaningful correlation between content duration and price.
@@ -81,6 +80,9 @@ The aim is to uncover insights that can help maximize revenue and increase cours
 * Levels vary from beginner to expert, with a few free beginner options.
 
 * These courses tend to have longer durations and high engagement rates.
+
+![20 courses]https://github.com/ahanspaschal/My-Udemy-course-data-analysis-project-Python-/blob/main/20%20courses.png)
+
 
 ## 💡 Recommendations
 ### Focus on High-Demand Subjects:
