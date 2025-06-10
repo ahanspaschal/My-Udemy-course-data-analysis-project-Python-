@@ -81,7 +81,7 @@ The aim is to uncover insights that can help maximize revenue and increase cours
 
 * These courses tend to have longer durations and high engagement rates.
 
-![20 courses]https://github.com/ahanspaschal/My-Udemy-course-data-analysis-project-Python-/blob/main/20%20courses.png)
+![20 courses](https://github.com/ahanspaschal/My-Udemy-course-data-analysis-project-Python-/blob/main/20%20courses.png)
 
 
 ## 💡 Recommendations
