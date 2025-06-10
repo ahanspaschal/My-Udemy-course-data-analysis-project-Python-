@@ -101,6 +101,10 @@ The aim is to uncover insights that can help maximize revenue and increase cours
 
 * Highlight and promote top-performing courses as case studies for new creators.
 
+## Thank You.
+For more information or collaboration I can be reached via e-mail or linkedin.
+
+
 
 
 
