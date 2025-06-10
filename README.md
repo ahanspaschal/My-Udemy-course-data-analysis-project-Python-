@@ -57,10 +57,10 @@ The aim is to uncover insights that can help maximize revenue and increase cours
 ## 📊 Key Insights
 ### Subject & Subscriber Trends
 * Web Development dominates with 68% of all subscribers, confirming its popularity and commercial viability.
-  ![20 courses](https://github.com/ahanspaschal/My-Udemy-course-data-analysis-project-Python-/blob/main/20%20courses.png)
-
-
 * Business Finance and Musical Instruments have significantly fewer subscribers.
+
+![subscriber distribution](https://github.com/ahanspaschal/My-Udemy-course-data-analysis-project-Python-/blob/main/subscriber%20distribution.png)
+
 ### Pricing Patterns
 * Web Development courses have the highest average price.
 
